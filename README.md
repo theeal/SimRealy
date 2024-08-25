@@ -1,3 +1,5 @@
+Copyright (c) 2024, Martin Normann and Åke Bermhult
+
 Based of code by (c) Copyright 2022 Aaron Kimball.
 
 Modifyed for RelaySimulation by Martin Normann and Åke Bermhult
