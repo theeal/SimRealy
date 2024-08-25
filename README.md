@@ -1,5 +1,6 @@
-// Based of code by (c) Copyright 2022 Aaron Kimball
-// Modifyed for RelaySimulation by Martin Normann and Åke Bermhult
+Based of code by (c) Copyright 2022 Aaron Kimball.
+
+Modifyed for RelaySimulation by Martin Normann and Åke Bermhult
 
 # SimRealy
 This Library Simulates Relay:s with Turnactive/Turninactive timers. 
