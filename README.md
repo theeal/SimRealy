@@ -4,7 +4,7 @@ Based of code by (c) Copyright 2022 Aaron Kimball.
 
 Modifyed for RelaySimulation by Martin Normann and Åke Bermhult
 
-# SimRealy
+# SimRelay
 This Library Simulates Relay:s with Turnactive/Turninactive timers. 
 
 Default Turn Active/Inactive is defined in SimRelay.h
